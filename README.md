@@ -1,6 +1,6 @@
 # Ship Keep Co - Cruise Booking Application
 
-A full-stack cruise booking system built for showcase. *Data is fictional and was created solely for this project!*
+A full-stack cruise booking system built for showcase. *Data is **fictional** and was created solely for this project!*
 
 ## 🚢 Features
 
