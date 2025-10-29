@@ -62,11 +62,11 @@ This project fulfills the following assessment requirements:
 
 ## 👤 Author
 
-[Bryce B] - Dell ISG Software Engineering Internship Candidate
+[Bryce Biyeba]
 
 ## 📄 License
 
-This project was created as part of a take-home technical assessment. All code is original work by the author. The fictional scenario and requirements were provided by the assessment.
+This project was created as part of a showcase. All code is original work by the author. The fictional scenario and requirements were provided for the necessary criteria.
 
 ---
 
