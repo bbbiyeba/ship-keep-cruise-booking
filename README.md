@@ -58,7 +58,7 @@ This project fulfills the following assessment requirements:
 - **Data Management:** Custom-generated timetable following specified routing patterns
 - **Challenges:** Complex voyage routing system, data structure design
 - **Solutions:** Helper functions, state management patterns
-- **Time:** ~3 hours
+- **Time:** ~ 4-6 hours
 
 ## 👤 Author
 
